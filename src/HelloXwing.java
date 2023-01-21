@@ -8,7 +8,6 @@
  */
 
 
-
 public class HelloXwing {
     /**
      * Returns a String containing a X-Wing ASCII-Art
