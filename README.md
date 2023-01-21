@@ -1,6 +1,10 @@
 # Java-Lab-001
 
-* The source code file you will edit is in the src folder and contains a Java class file named HelloXwing.java
-* Modify the HelloXwing.java file to print out to the **console** the xwing() method.
-* Run your program, verify an ascii-art X-Wing prints to the console, and save your changes.
-* Commit your changes back to your GitHub account and follow the video on doing a Pull request to the instructor account.
+## In computer jargon, what’s the difference between a statement and a comment?
+A statement is part of the program that tells the computer what to do. A comment does not affect the program, but is readable by someone looking at the code and can be used for notation and organization.
+## What does it mean to say that a program is portable?
+It means that it can be run on different types of machines, each of which will translate the program into their native machine language.
+## In common English, what does the word compile mean?
+To compile is to take the high-level language that a program is written in and translate it into lower-level languages, or machine languages, that the computer can then read and act on.
+## What is an executable? Why is that word used as a noun?
+And executable is a program that has already been translated into a machine language and is ready to be "executed" or run by the computer.
